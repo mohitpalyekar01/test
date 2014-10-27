@@ -14,6 +14,8 @@ import android.widget.ImageView;
 import android.widget.TabHost.TabSpec;
 import android.widget.TextView;
 
+
+//test project
 public class MainActivity extends ActionBarActivity {
 	private FragmentTabHost mTabHost;
 
